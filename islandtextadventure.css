@@ -1,0 +1,231 @@
+
+main {
+    background-image: url("images/island.png");  
+    background-repeat: no-repeat;   
+}
+
+
+
+
+
+
+
+h1.title {
+    margin-left: 40px; 
+    font-weight: 200; 
+    
+}
+
+
+
+
+main {
+    background-color: #3D8CD5;
+    padding-bottom: 10px; 
+}
+
+
+
+
+
+
+
+main div.islandgoalsandtotals {
+       
+       
+    
+    
+    
+}
+
+
+
+main div.text {
+    margin-top: 20px; 
+    width: 870px; 
+    margin-left: 40px;
+    font-size: 20px;
+    background-color: #3D8CD5;
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+    padding-left: 10px; 
+    color: white; 
+}
+
+
+main ul.text {
+    clear: both; 
+    display: inline-block;
+    font-size: 18px; 
+    margin-left: 40px; 
+    background-color: #F2ECE2; 
+    height: 250px; 
+    width: 90%; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    list-style-type:georgian;
+}
+
+
+
+
+
+
+
+main div.goals { 
+    clear: both;
+    display: block; 
+    width: 15%; 
+    margin-right: 20px;
+    margin-left: 40px; 
+    margin-bottom: 10px; 
+    background-color: #3D8CD5; 
+    color: white; 
+    font-size: 18px;
+    padding-left: 10px; 
+    padding-bottom: 5px; 
+    padding-top: 5px; 
+    
+}
+
+main div.currenttotals {
+    clear: both;
+    display: block; 
+    width: 15%; 
+    margin-bottom: 10px; 
+    margin-top: 10px; 
+    margin-right: 20px;
+    margin-left: 40px; 
+    background-color: #3D8CD5; 
+    color: white; 
+    font-size: 18px; 
+    padding-left: 10px; 
+    padding-bottom: 5px; 
+    padding-top: 5px; 
+}
+
+
+
+main div.totals {
+    clear: both;
+    display: block; 
+    width: 15%; 
+    list-style-type: none; 
+    text-align: left; 
+    background-color: #F2ECE2; 
+    margin-right: 20px;
+    margin-left: 40px; 
+    padding-left: 10px; 
+    padding-bottom: 5px; 
+    padding-top: 5px; 
+}
+
+
+main div.totals a {
+    
+   
+    
+}
+
+main div.minutes {
+    margin-left: 40px; 
+    margin-top: 20px; 
+    text-align: center; 
+    width: 15%; 
+    color: white;
+    font-size: 18px;
+}
+
+
+
+
+
+
+main button.buttonsstart {
+    clear: both;
+    display: block;
+    margin-left: 605px;
+    margin-top: 20px; 
+    
+    
+} 
+
+main button.buttonsgrenades {
+    clear: both;
+    display: block; 
+    margin-left: 600px; 
+    
+}
+
+main button.buttonsropetraps {
+    clear: both;
+    display: block; 
+    margin-left: 830px;
+    margin-top: 50px; 
+    
+    
+}
+
+
+
+
+main button.buttonscoconuts {
+    clear: both;
+    display: block; 
+    margin-top: 70px; 
+    margin-left: 800px;
+    
+    
+}
+
+
+
+main button.buttonsbananas {
+    clear: both;
+    display: block; 
+    margin-top: 5px; 
+    margin-left: 840px;
+    
+    
+    
+}
+
+main button.buttonsgold {
+    clear: both;
+    display: inline-block; 
+    margin-top: 40px; 
+    margin-left: 720px;
+    
+    
+    
+}
+
+
+main button.buttonssilver {
+    clear: both;
+    display: inline-block; 
+    margin-top: 10px; 
+    margin-left: 950px;
+    
+    
+    
+}
+
+
+
+main button.buttonsend {
+    clear: both;
+    display: inline-block; 
+    margin-top: 175px; 
+    margin-left: 1020px;
+    
+    
+    
+}
+
+
+
+
+
+
+
